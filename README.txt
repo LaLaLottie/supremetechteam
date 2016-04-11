@@ -1,5 +1,7 @@
 Mod 3 Project Website
 
+This is a website made for a class project which uses a modified third-party template and other technologies.  Below are the credits for what was used in order to create this site.
+
 All images unless otherwise specified belong to their respective owners.
 
 ===========
@@ -7,7 +9,6 @@ All images unless otherwise specified belong to their respective owners.
 Strongly Typed by HTML5 UP
 html5up.net | @n33co
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
 
 This is Strongly Typed, a new site template with a minimal, semi-retro
 look (inspired by old instruction manuals) and, as you might guess from its
@@ -21,14 +22,10 @@ http://regularjane.deviantart.com/
 (* = Not included! Only meant for use with my own on-site demo, so please do NOT download
 and/or use any of Jane's work without her explicit permission!)
 
-As usual, feedback, bug reports, and comments are not only welcome, but strongly
-encouraged :)
-
 AJ
 n33.co @n33co dribbble.com/n33
 
 PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
 
 Credits:
 
